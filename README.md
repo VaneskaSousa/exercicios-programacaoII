@@ -10,9 +10,10 @@ Primeiro exercício exigido na cadeira de Programação II desenvolvido com [Jav
 **Como o curso é voltado não só para sistemas como também para mídias digitais, o projeto foi desenvolvindo seguindo os padrões orientados pela processing. Apesar disso, é possivel rodar normalmente utilizando outra IDE, bastando importar a biblioteca processing.**
 
 ## Estrutura do projeto:
-* ExercicioRevisão: Classe principal que segue o padrão orientado pela processing (setting, setup e draw) que é executada primeiro e chama a classe responsável pelas alterações;
-* Equacoes: Classe que contem todas as funções necessárias para resolução dos **[exercicios propostos](https://drive.google.com/file/d/1cFUMqNdslqTKcfNgb_5g8KDFCqUUCXhF/view?usp=sharing);**
-* Exercicio: Classe responsável pela interação com usuário (entrada e saída de dados) e pela chamada dos métodos da classe Equações correspondentes a operação desejada. 
+* exercicioRevisao: Sketch em comum (como um pacote no java) que estabelece a relação entre as classes;
+  * ExercicioRevisão: Classe principal que segue o padrão orientado pela processing (setting, setup e draw) que é executada primeiro e chama a classe responsável pelas alterações;
+  * Equacoes: Classe que contem todas as funções necessárias para resolução dos **[exercicios propostos](https://drive.google.com/file/d/1cFUMqNdslqTKcfNgb_5g8KDFCqUUCXhF/view?usp=sharing);**
+  * Exercicio: Classe responsável pela interação com usuário (entrada e saída de dados) e pela chamada dos métodos da classe Equações correspondentes a operação desejada. 
 
 ## Contato e outras mídias:
 * [Instagram](https://www.instagram.com/vaneska.sousa20/);

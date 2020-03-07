@@ -4,7 +4,7 @@ Primeiro exercício exigido na cadeira de Programação II desenvolvido com [Jav
 ## Dados gerais:
 * Nome e matrícula: Vaneska Sousa, 476389;
 * Curso e instituição: [Sistemas e mídias digitais](https://smd.ufc.br/pt/sobre-o-curso/) na Universidade Federal do Ceará;
-* Cadeira: [Programação II]();
+* Cadeira: [Programação II](https://drive.google.com/folderview?id=0B1pjZOAnXL6-WVZIVVAta3UzcUk);
 * Objetivo: Revisar conceitos aprendidos na cadeira de Programação I e familiarizar os alunos com a IDE processing e com a linguagem Java;
 
 **Como o curso é voltado não só para sistemas como também para mídias digitais, o projeto foi desenvolvindo seguindo os padrões orientados pela processing. Apesar disso, é possivel rodar normalmente utilizando outra IDE, bastando importar a biblioteca processing.**

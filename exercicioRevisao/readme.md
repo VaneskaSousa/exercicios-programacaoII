@@ -1,4 +1,4 @@
-# exercicio01_ProgramacaoII
+# exercicioRevisao
 Primeiro exercício exigido na cadeira de Programação II desenvolvido com [Java](https://www.java.com/pt_BR/download/) utilizando a biblioteca e IDE [Processing](https://processing.org/). 
 
 ## Estrutura do projeto:

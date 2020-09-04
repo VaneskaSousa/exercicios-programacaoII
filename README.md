@@ -14,7 +14,8 @@ Cada projeto (pasta) é um exercício diferente e cada um deles possuí um readm
 Aula | Descrição | Nome do projeto neste repositorio  | 
 |:-:|---|---|
 | Antes do covid-19 | Revisar conceitos aprendidos na cadeira de Programação I e familiarizar os alunos com a IDE processing e com a linguagem Java | exercicioRevisao |     
-| Aula 05 | Prática de funções, modificadores de acesso e herança | exercícios-aula05 |   
+| Aula 05 | POO - Prática de funções, modificadores de acesso e herança | exercícios-aula05 |   
+| Aula 06 | POO - Teoria e prática de polimorfismo | polimofismo |
 
 ## Contato e outras mídias:
 * [Instagram](https://www.instagram.com/vaneska.sousa20/);

@@ -17,6 +17,7 @@ Aula | Descrição | Nome do projeto neste repositorio  |
 | Aula 05 | POO - Prática de funções, modificadores de acesso e herança | exercícios-aula05 |   
 | Aula 06 | POO - Teoria e prática de polimorfismo | polimofismo |
 | - | Avaliação de POO (Prova parcial 01) | prova_oo |
+| - | Avaliação de POO e tratamento de exceções (Prova global) | ProvaFinal |
 
 ## Contato e outras mídias:
 * [Instagram](https://www.instagram.com/vaneska.sousa20/);
